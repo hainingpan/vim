@@ -54,3 +54,4 @@ if filereadable("/etc/vim/vimrc.local")
 endif
 set nu
 set cindent
+set backspace=indent,eol,start
